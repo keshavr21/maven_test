@@ -8,7 +8,6 @@ pipeline
     environment
     {
       TOMCAT_PATH = "/usr/share/tomcat/webapps"
-      JAVA_HOME= '/usr/lib/jvm/java-1.8.0-amazon-corretto.x86_64'
 
     }
     stages
