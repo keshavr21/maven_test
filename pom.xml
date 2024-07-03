@@ -212,4 +212,8 @@
 
     <scm>
         <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
-        <developerConnection>scm:git:git@github.com:jleetutorial/maven
+        <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
+        <url>https://github.com/jleetutorial/maven-project</url>
+    </scm>
+
+</project>
